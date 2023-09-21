@@ -1,0 +1,27 @@
+/* these styles apply to the whole page */
+body{
+    background-color:paleturquoise;
+    color:navy;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* heading 1 styles */
+h1{
+    color:midnightblue;
+    /*text-shadow: orange;*/
+}
+
+/* heading 2 styles */
+h2{
+    color:slateblue;
+}
+
+/* heading 3 styles */
+h3{
+    color:midnightblue;
+}
+
+/* paragraph styles */
+p{
+    font-size: larger;
+}
